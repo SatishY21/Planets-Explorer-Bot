@@ -37,12 +37,12 @@ This project is built using a Retrieval-Augmented Generation (RAG) model, ensuri
 
 To run the Cosmic Explorer Bot on your own machine, follow these steps:
 
-### Prerequisites
+## Prerequisites
 
 * Python 3.9+
 * A Google AI (Gemini) API Key
 
-### ### Setup Instructions
+### Setup Instructions
 
 1.  **Clone the Repository:**
     ```bash
@@ -77,6 +77,6 @@ To run the Cosmic Explorer Bot on your own machine, follow these steps:
 
 ---
 
-## ## Acknowledgements
+## Acknowledgements
 
 A huge thanks to NASA for providing the comprehensive and fascinating fact sheets that form the knowledge base for this bot.
