@@ -4,7 +4,7 @@ Welcome to the Cosmic Explorer Bot! This is an interactive web application that 
 
 This project is built using a Retrieval-Augmented Generation (RAG) model, ensuring that the answers are accurate and free from AI hallucinations. The bot's knowledge is strictly limited to the NASA fact sheets it was trained on.
 
-**[Link to your live Streamlit App]** &lt;-- *Don't forget to add the link to your live app here!*
+**[https://planets-explorer-bot-kvucrw5lxsctfkrlsgzphz.streamlit.app/]** &lt;-- *Don't forget to add the link to your live app here!*
 
 
 
