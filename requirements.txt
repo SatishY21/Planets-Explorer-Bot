@@ -1,5 +1,6 @@
 streamlit
 langchain
 langchain-google-genai
+langchain-community  # <-- Add this line
 faiss-cpu
 sentence-transformers
