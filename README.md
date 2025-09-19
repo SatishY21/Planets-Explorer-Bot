@@ -10,7 +10,7 @@ This project is built using a Retrieval-Augmented Generation (RAG) model, ensuri
 
 ---
 
-## ## Features
+## Features
 
 * **Interactive Q&A Interface:** Ask questions in plain English through a user-friendly web UI.
 * **Accurate, Fact-Based Answers:** All responses are generated based on a curated knowledge base of NASA documents.
@@ -19,7 +19,7 @@ This project is built using a Retrieval-Augmented Generation (RAG) model, ensuri
 
 ---
 
-## ## Technical Stack
+## Technical Stack
 
 * **Language:** Python
 * **Core Libraries:**
@@ -33,11 +33,11 @@ This project is built using a Retrieval-Augmented Generation (RAG) model, ensuri
 
 ---
 
-## ## How to Run This Project Locally
+## How to Run This Project Locally
 
 To run the Cosmic Explorer Bot on your own machine, follow these steps:
 
-### ### Prerequisites
+### Prerequisites
 
 * Python 3.9+
 * A Google AI (Gemini) API Key
